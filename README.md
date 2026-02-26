@@ -7,9 +7,13 @@ Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding u
 ## 📝Segindo a proposta da aula o  PRD Refinado foi refinado no Copilot Web; 
 Os seguintes arquivos: 
 ├─ index.html
+
 ├─ styles.css
+
 ├─ script.js
+
 ├─ README.md
+
 └─ PRD.md 
 foram desenvolvido apartir de interaçõe e refinamentos com o Copilot web.
 
